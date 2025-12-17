@@ -1,0 +1,17 @@
+{
+  "name": "frontend",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "@google-cloud/text-to-speech": "^4.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs-extra": "^9.1.0"
+  }
+}
